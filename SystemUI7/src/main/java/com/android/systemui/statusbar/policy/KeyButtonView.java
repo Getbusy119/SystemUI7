@@ -43,7 +43,7 @@ import android.widget.ImageView;
 
 import com.android.systemui.R;
 
-import itel.transsion.settingslib.utils.LogUtil;
+import tecno.transsion.settingslib.utils.LogUtil;
 
 import static android.view.accessibility.AccessibilityNodeInfo.ACTION_CLICK;
 import static android.view.accessibility.AccessibilityNodeInfo.ACTION_LONG_CLICK;
